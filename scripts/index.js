@@ -48,7 +48,7 @@ x = setInterval(function () {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', 'NEW', 'YEAR', '2021!!', config.name, '        -Sravan'],
+      strings: ['HAPPY', 'NEW', 'YEAR', '2021!!', config.name],
       charSize: 30,
       charSpacing: 27.5,
       lineHeight: 35,
